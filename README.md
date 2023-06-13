@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Fabio</h1>
-<h3 align="center">iOS / Android and Embedded Firmware Developer - BSc. Mechatronics Engineering</h3>
+<h3 align="center">Junior iOS / Android and Embedded Firmware Developer - BSc. Mechatronics Engineering</h3>
 
 I am a Junior Mobile Developer and Mechatronics Engineer with a passion for application development and a strong foundation in Swift, Kotlin, Flutter, C, C++, and Python. My background in Mechatronics Engineering provides me with a unique perspective, combining hardware and software expertise. I have successfully developed interfaces and programs for desktop injection machines and IoT air quality sensing systems, demonstrating my ability to design and implement innovative solutions. I am eager to expand my career in the world of mobile development, where I can contribute my knowledge and enthusiasm to create innovative mobile applications.
 
