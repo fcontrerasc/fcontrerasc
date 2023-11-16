@@ -1,7 +1,15 @@
 <h1 align="center">Hello! 👋, I'm Fabio</h1>
-<h3 align="center">Junior iOS / Android and Embedded Firmware Developer - BSc. Mechatronics Engineering</h3>
+<h3 align="center">Mechatronics Engineer | Aspiring Android & iOS Developer | Skilled in Java, Kotlin, Swift, Flutter | Passionate about Mobile Tech & UI/UX Design</h3>
 
-I am a Junior Mobile Developer and Mechatronics Engineer with a passion for application development and a strong foundation in Swift, Kotlin, Flutter, C, C++, and Python. My background in Mechatronics Engineering provides me with a unique perspective, combining hardware and software expertise. I have successfully developed interfaces and programs for desktop injection machines and IoT air quality sensing systems, demonstrating my ability to design and implement innovative solutions. I am eager to expand my career in the world of mobile development, where I can contribute my knowledge and enthusiasm to create innovative mobile applications.
+Hello! I'm Fabio, a dedicated Mechatronics Engineer transitioning into the dynamic world of mobile app development. With a formal yet approachable style, I bring an analytical and detail-oriented approach to my work, combined with a genuine enthusiasm for innovation and technology.
+
+My journey in engineering has equipped me with a solid foundation in various languages and frameworks, including Java, Kotlin, Swift, and Flutter. I have a knack for UI/UX design, evident from my work on an e-learning platform mockup and various API-integrated mobile apps. Balancing assertiveness with empathy, I'm not only about getting the job done but also about understanding and addressing user needs effectively.
+
+Currently, I'm leveraging my cross-disciplinary skills to create intuitive and impactful applications for Android and iOS platforms. I believe in the power of technology to make a difference, and I'm always on the lookout for projects and collaborations that aim for social impact.
+
+When not coding, you might find me immersed in a book, or exploring the intricate art of origami. Feel free to reach out for collaborations or just a chat about the latest in tech and design!
+
+“Innovation is not about saying yes to everything. It's about saying NO to all but the most crucial features.” - Steve Jobs
 
 [![Linkedin: fcontrerasc](https://img.shields.io/badge/-fcontrerasc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fcontrerasc/)](https://www.linkedin.com/in/fcontrerasc/)
 [![GitHub fcontrerasc](https://img.shields.io/github/followers/fcontrerasc?label=follow&style=social)](https://github.com/fcontrerasc)
@@ -14,22 +22,33 @@ I am a Junior Mobile Developer and Mechatronics Engineer with a passion for appl
 
 - 📫 How to reach me **fcontrerascc19@gmail.com**
 
+<h3 align="left">Project Experience:</h3>
+
+**E-Learning Platform Mockup** \
+[**Freelancer**] • Feb 2023 - Mar 2023 \
+Languages & Technologies: `Figma`,`UI/UX`, `E-Learning` \
+<br/>
+**API-Integrated Mobile App** \
+[**Bootcamp**] • Sep 2022 - Oct 2022 \
+Languages & Technologies: `IOS`, `Swift`, `API`, `Google Maps`, `UI`, \
+<br/>
+
 <h3 align="left">Work Experience:</h3>
 
 **Project Engineer** \
-[**Chemitech**](https://chemitech.com.pe/) • Jan 2022–Present • Full-time \
+[**Chemitech**](https://chemitech.com.pe/) • Jan 2022 – Present • Full-time \
 Languages & Technologies: `C`,`C++`, `Python`, `3D CAD`, `Arduino` \
 <br/>
 **Engineering Team Leader** \
-[**qAIRa**](http://www.qairadrones.com) • Oct 2021–Dic 2021 • Full-time \
+[**qAIRa**](http://www.qairadrones.com) • Oct 2021 – Dic 2021 • Full-time \
 Languages & Technologies: `C`, `Python`, `Eclipse` \
 <br/>
 **Lead Firmware Developer** \
-[**qAIRa**](http://www.qairadrones.com) • Jan 2021–Set 2021 • Full-time \
+[**qAIRa**](http://www.qairadrones.com) • Jan 2021 – Set 2021 • Full-time \
 Languages & Technologies: `C`, `Python`, `Eclipse` \
 <br/>
 **Firmware Developer** \
-[**qAIRa**](http://www.qairadrones.com) • Aug 2020–Dic 2020 • Full-time \
+[**qAIRa**](http://www.qairadrones.com) • Aug 2020 – Dic 2020 • Full-time \
 Languages & Technologies: `C`, `Python`, `Eclipse`
 
 <h3 align="left">Connect with me:</h3>
