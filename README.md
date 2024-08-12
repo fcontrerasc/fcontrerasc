@@ -1,11 +1,12 @@
 <h1 align="center">Hello! 👋, I'm Fabio</h1>
-<h3 align="center">Mechatronics Engineer | Aspiring Android & iOS Developer | Skilled in Java, Kotlin, Swift, Flutter | Passionate about Mobile Tech & UI/UX Design</h3>
+<h3 align="center">Mechatronics Engineer | Embedded Systems Developer | Skilled in C, C++, Java, Swift, Kotlin | Passionate about Embedded Systems, Electronics Design and Mobile Tech</h3>
 
-Hello! I'm Fabio, a dedicated Mechatronics Engineer transitioning into the dynamic world of mobile app development. With a formal yet approachable style, I bring an analytical and detail-oriented approach to my work, combined with a genuine enthusiasm for innovation and technology.
+I am a Mechatronics Engineer with extensive experience in embedded systems and critical software development. My career spans from IoT devices and laboratory equipment to air traffic control systems.
 
-My journey in engineering has equipped me with a solid foundation in various languages and frameworks, including Java, Kotlin, Swift, and Flutter. I have a knack for UI/UX design, evident from my work on an e-learning platform mockup and various API-integrated mobile apps. Balancing assertiveness with empathy, I'm not only about getting the job done but also about understanding and addressing user needs effectively.
+Currently, as a Senior Software Engineer at Indra, I specialize in maintaining and enhancing complex systems for airspace management, using ADA and C++. My focus is on ensuring the highest quality and safety in mission-critical aviation software.
+Throughout my career, I've led innovative projects such as "Alchem", a desktop injection machine that showcased my capacity for innovative design and technical leadership.
 
-Currently, I'm leveraging my cross-disciplinary skills to create intuitive and impactful applications for Android and iOS platforms. I believe in the power of technology to make a difference, and I'm always on the lookout for projects and collaborations that aim for social impact.
+I am committed to continuous learning and technical excellence, and I'm always looking for new challenges that allow me to apply and expand my skills in the field of software engineering.
 
 When not coding, you might find me immersed in a book, or exploring the intricate art of origami. Feel free to reach out for collaborations or just a chat about the latest in tech and design!
 
@@ -14,41 +15,28 @@ When not coding, you might find me immersed in a book, or exploring the intricat
 [![Linkedin: fcontrerasc](https://img.shields.io/badge/-fcontrerasc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fcontrerasc/)](https://www.linkedin.com/in/fcontrerasc/)
 [![GitHub fcontrerasc](https://img.shields.io/github/followers/fcontrerasc?label=follow&style=social)](https://github.com/fcontrerasc)
 
-- 🔭 I’m currently working on [Chemitech](https://chemitech.com.pe)
-
-- 🌱 I’m currently learning **IOs & Android**
+- 🔭 I’m currently working on [Indra](https://www.indracompany.com)
 
 - 💬 Ask me about **Embedded and Mobile Software**
 
 - 📫 How to reach me **fcontrerascc19@gmail.com**
 
-<h3 align="left">Project Experience:</h3>
-
-**E-Learning Platform Mockup** \
-[**Freelancer**] • Feb 2023 - Mar 2023 \
-Languages & Technologies: `Figma`,`UI/UX`, `E-Learning` \
-<br/>
-**API-Integrated Mobile App** \
-[**Bootcamp**] • Sep 2022 - Oct 2022 \
-Languages & Technologies: `IOS`, `Swift`, `API`, `Google Maps`, `UI`, \
-<br/>
-
 <h3 align="left">Work Experience:</h3>
 
+**Senior Software Engineer** \
+[**Indra**](https://www.indracompany.com) • Jan 2024 – Present • Full-time \
+Languages & Technologies: `C++`, `ADA` \
+<br/>
 **Project Engineer** \
-[**Chemitech**](https://chemitech.com.pe/) • Jan 2022 – Present • Full-time \
+[**Chemitech**](https://chemitech.com.pe/) • Jan 2022 – Dec 2023 • Full-time \
 Languages & Technologies: `C`,`C++`, `Python`, `3D CAD`, `Arduino` \
 <br/>
-**Engineering Team Leader** \
-[**qAIRa**](http://www.qairadrones.com) • Oct 2021 – Dic 2021 • Full-time \
-Languages & Technologies: `C`, `Python`, `Eclipse` \
-<br/>
 **Lead Firmware Developer** \
-[**qAIRa**](http://www.qairadrones.com) • Jan 2021 – Set 2021 • Full-time \
+[**qAIRa**](http://www.qairadrones.com) • Jan 2021 – Dec 2021 • Full-time \
 Languages & Technologies: `C`, `Python`, `Eclipse` \
 <br/>
 **Firmware Developer** \
-[**qAIRa**](http://www.qairadrones.com) • Aug 2020 – Dic 2020 • Full-time \
+[**qAIRa**](http://www.qairadrones.com) • Aug 2020 – Dec 2020 • Full-time \
 Languages & Technologies: `C`, `Python`, `Eclipse`
 
 <h3 align="left">Connect with me:</h3>
