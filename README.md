@@ -15,7 +15,7 @@ When not coding, you might find me immersed in a book, or exploring the intricat
 [![Linkedin: fcontrerasc](https://img.shields.io/badge/-fcontrerasc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fcontrerasc/)](https://www.linkedin.com/in/fcontrerasc/)
 [![GitHub fcontrerasc](https://img.shields.io/github/followers/fcontrerasc?label=follow&style=social)](https://github.com/fcontrerasc)
 
-- 🔭 I’m currently working on [Indra](https://www.indracompany.com)
+- 🔭 I’m currently working at [Indra](https://www.indracompany.com)
 
 - 💬 Ask me about **Embedded and Mobile Software**
 
